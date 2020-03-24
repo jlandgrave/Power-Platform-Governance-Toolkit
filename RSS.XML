@@ -14,7 +14,13 @@
       <link>https://github.com/microsoft/powerapps-tools/blob/master/Administration/EnvironmentInventory/BackupOldPowerApps.zip?raw=true</link>
       <comments>Flows that create an inventory snapshot in SQL Server</comments>
       <category>Power Automate</category>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[This is an <strong>incredible</strong> collection of tips including:
+<ul>
+<li>one thing</li>
+<li>another thing</li>
+<li>a third thing</li></ul>
+<p>I hope you enjoy it!</p>
+<p>&nbsp;</p>]]></description>
     </item>
   </channel>
 </rss>
