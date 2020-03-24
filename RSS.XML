@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>PowerPlatform Snippets</title>
+    <link>https://powerapps.microsoft.com/en-us/</link>
+    <description>Code Snippets for common tasks in Power Apps, Power Automate and other Power Platform properties.</description>
+    <language>en-us</language>
+    <managingEditor>john.landgrave@microsoft.com</managingEditor>
+    <copyright>Microsoft Corporation</copyright>
+    <item>
+      <title>Environment Inventory Flows</title>
+      <pubDate>Tue, 24 Mar 2020 16:43:31 -0400</pubDate>
+      <link>https://github.com/microsoft/powerapps-tools/blob/master/Administration/EnvironmentInventory/BackupOldPowerApps.zip?raw=true</link>
+      <comments>Flows that create an inventory snapshot in SQL Server</comments>
+      <category>Power Automate</category>
+      <description><![CDATA[]]></description>
+    </item>
+  </channel>
+</rss>
