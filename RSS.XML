@@ -28,7 +28,8 @@
       <pubDate>Tue, 24 Mar 2020 19:43:31 -0400</pubDate>
       <link>https://github.com/microsoft/powerapps-tools/blob/master/Administration/EnvironmentInventory/BackupOldPowerApps.zip?raw=true</link>
       <summary>Summary of MyFavorite Power App</summary>
-      <category>Power Apps, Power Automate</category>
+      <category>Power Apps</category>
+      <category>Component</category>
       <description><![CDATA[HELLO WORLD! - This is an <strong>incredible</strong> collection of tips including:
 <ul>
 <li>one thing</li>
