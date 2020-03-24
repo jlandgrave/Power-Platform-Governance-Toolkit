@@ -10,6 +10,7 @@
     <copyright>Microsoft Corporation</copyright>
     <item>
       <title>Environment Inventory Flows</title>
+      <copyright>John Landgrave, Microsoft Corporation</copyright>
       <pubDate>Tue, 24 Mar 2020 16:43:31 -0400</pubDate>
       <link>https://github.com/microsoft/powerapps-tools/blob/master/Administration/EnvironmentInventory/BackupOldPowerApps.zip?raw=true</link>
       <summary>Flows that create an inventory snapshot in SQL Server</summary>
@@ -25,6 +26,7 @@
     </item>
        <item>
       <title>My Favorite Power App</title>
+      <copyright>Brian Gregor, Microsoft Corporation</copyright>
       <pubDate>Tue, 24 Mar 2020 19:43:31 -0400</pubDate>
       <link>https://github.com/microsoft/powerapps-tools/blob/master/Administration/EnvironmentInventory/BackupOldPowerApps.zip?raw=true</link>
       <summary>Summary of MyFavorite Power App</summary>
